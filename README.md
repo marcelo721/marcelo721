@@ -3,14 +3,9 @@ Hi, I'm Marcelo, a computer engineering student at the Federal University of Cea
 
 - 🌱 I’m currently learning HTML/CSS and Java.
 
-## Programming Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo721&layout=compact)
-
 ### My Favorite Languages
 
 - [![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) [![Java](https://img.shields.io/badge/-Java-%23FF5722?style=flat-square&logo=coffeescript&logoColor=white)](https://www.java.com/)
-
 
 ## Connect With Me
 
