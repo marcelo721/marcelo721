@@ -1,7 +1,4 @@
 # Welcome to My GitHub Profile! 👋
-
-## About Me
-
 Hi, I'm Marcelo, a computer engineering student at the Federal University of Ceará in Brazil. Currently, I'm in the third semester. I enjoy back-end technologies, artificial intelligence, and a bit of front-end.
 
 - 🌱 I’m currently learning HTML/CSS and Java.
