@@ -6,10 +6,6 @@ Hi, I'm Marcelo, a computer engineering student at the Federal University of Cea
 
 - 🌱 I’m currently learning HTML/CSS and Java.
 
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcelo721&show_icons=true)
-
 ## Programming Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo721&layout=compact)
