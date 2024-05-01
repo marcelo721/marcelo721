@@ -11,10 +11,6 @@ Hi, I'm Marcelo, a computer engineering student at the Federal University of Cea
 
 - [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/marcelo.out_/) [![Email](https://img.shields.io/badge/-Email-%23333?style=flat-square&logo=gmail&logoColor=white)](mailto:your_marceloh.sousa@alu.ufc.br)
 
-
-
-
-
 Thanks for visiting my profile! 😊
 
 
