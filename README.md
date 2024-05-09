@@ -3,7 +3,7 @@ Hi, I'm Marcelo, a computer engineering student at the Federal University of Cea
 
 - 🌱 I’m currently learning HTML/CSS and Java.
 
-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo721&layout=compact)](https://github.com/your_username)
+- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo721&layout=compact)](https://github.com/marcelo721)
 
 
 ### My Favorite Languages
