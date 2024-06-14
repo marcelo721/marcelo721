@@ -35,7 +35,7 @@ Here are a few projects I've been working on:
 ## 🚀 Skills
 - **Programming Languages**: Python, Java, C, HTML, CSS, JavaScript
 - **Frameworks and Libraries**: Spring Boot
-- **Tools**: Git, Docker, VSCode
+- **Tools**: Git, Docker, VSCode, IntelliJ
 
 ## 📅 Currently Learning
 - Advanced Java
