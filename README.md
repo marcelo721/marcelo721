@@ -14,8 +14,6 @@ Hi, I'm Marcelo, a computer engineering student at the Federal University of Cea
 &nbsp;&nbsp;
 [![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-%236DB33F?style=flat-square&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
 &nbsp;&nbsp;
-[![C](https://img.shields.io/badge/-C-%23A8B9CC?style=flat-square&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-&nbsp;&nbsp;
 [![HTML](https://img.shields.io/badge/-HTML-%23E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 &nbsp;&nbsp;
 [![CSS](https://img.shields.io/badge/-CSS-%231572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -33,9 +31,9 @@ Here are a few projects I've been working on:
 - [![Email](https://img.shields.io/badge/-Email-%23333?style=flat-square&logo=gmail&logoColor=white)](mailto:marceloh.sousa@alu.ufc.br)
 
 ## 🚀 Skills
-- **Programming Languages**: Python, Java, C, HTML, CSS, JavaScript
+- **Programming Languages**: Python, Java, HTML, CSS, JavaScript
 - **Frameworks and Libraries**: Spring Boot
-- **Tools**: Git, Docker, VSCode, IntelliJ
+- **Tools**: Git, VSCode, IntelliJ,postman,MysqlWorkbench
 
 ## 📅 Currently Learning
 - Advanced Java
