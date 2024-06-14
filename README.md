@@ -25,7 +25,8 @@ Here are a few projects I've been working on:
 ## 🌐 Connect With Me
 - [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/marcelo.out/)
 - [![Email](https://img.shields.io/badge/-Email-%23333?style=flat-square&logo=gmail&logoColor=white)](mailto:marceloh.sousa@alu.ufc.br)
-- - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/marcelo-henrique-138526310/)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/marcelo-henrique-138526310/)
+
 
 
 
