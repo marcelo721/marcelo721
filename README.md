@@ -24,9 +24,9 @@ Hi, I'm Marcelo, a computer engineering student at the Federal University of Cea
 
 ## 📘 Projects
 Here are a few projects I've been working on:
-- **Project 1**: Brief description of what it is and what technologies were used.
-- **Project 2**: Brief description of what it is and what technologies were used.
-- **Project 3**: Brief description of what it is and what technologies were used.
+- **Project 1**: project poupe-mais carried out during computer engineering week.
+- **Project 2**: Api rest made with the springboot framework for managing a bookstore.
+- **Project 3**: Api rest made with the springboot framework for managing a vehicle parking lot.
 
 ## 🌐 Connect With Me
 - [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/marcelo.out/)
