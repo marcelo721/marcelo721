@@ -39,7 +39,7 @@ Here are a few projects I've been working on:
 
 ## 📅 Currently Learning
 - Advanced Java
-- Front-end frameworks (React, Vue.js)
+- Front-end frameworks (React)
 - Machine Learning basics
 
 ## 👨‍💻 About Me
