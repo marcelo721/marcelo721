@@ -15,6 +15,10 @@
 [![CSS](https://img.shields.io/badge/-CSS-%231572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 &nbsp;&nbsp;
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+&nbsp;&nbsp;
+[![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+&nbsp;&nbsp;
+[![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
 ## 📘 Projects
 Here are a few projects I've been working on:
