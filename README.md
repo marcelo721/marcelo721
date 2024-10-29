@@ -35,7 +35,7 @@ Here are a few projects I've been working on:
 ## 🚀 Skills
 - **Programming Languages**: Python, Java, HTML, CSS, JavaScript
 - **Frameworks and Libraries**: Spring Boot, React
-- **Tools**: Git, VSCode, IntelliJ, postman, MysqlWorkbench
+- **Tools**: Git, VSCode, IntelliJ, postman, MysqlWorkbench,docker, postgress
 
 ## 📅 Currently Learning
 - Advanced Java
