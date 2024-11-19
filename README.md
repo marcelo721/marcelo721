@@ -3,6 +3,14 @@
 ## 📊 GitHub Stats
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo721&layout=compact)](https://github.com/marcelo721)
 
+##
+
+<div align="left">
+<h4><img align="center"  alt="Alien" width="200" height="200" src="https://64.media.tumblr.com/7d6c6006d54d3f32a22badac769049e3/tumblr_inline_ojj9i5v6wV1sp1kfz_500.gifv"> Total hits on my git:  <img align="center" src="https://profile-counter.glitch.me/Pablobrek-bit/count.svg"></h4>
+</div>
+
+##
+
 ## 💻 My Favorite Languages and Technologies
 [![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 &nbsp;&nbsp;
