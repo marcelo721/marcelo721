@@ -43,6 +43,6 @@ Here are a few projects I've been working on:
 - Machine Learning basics
 
 ## 👨‍💻 About Me
-- 🎓 Third-semester student at the Federal University of Ceará
+- 🎓 Fourth-semester student at the Federal University of Ceará
 - 🤖 Passionate about AI and machine learning
 - 💼 Aspiring to become a full-stack developer
