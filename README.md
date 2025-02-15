@@ -49,6 +49,7 @@ Here are a few projects I've been working on:
 - Advanced Java
 - Front-end frameworks (React)
 - Machine Learning basics
+- data science basic
 
 ## 👨‍💻 About Me
 - 🎓 Fourth-semester student at the Federal University of Ceará
