@@ -37,12 +37,23 @@
 
 ---
 
+
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcelo721&show_icons=true&theme=dracula&count_private=true&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelo721&layout=compact&langs_count=7&theme=dracula&hide_border=false" height="150" />
+
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcelo721&theme=dracula"/>
+
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marcelo721&theme=dracula"/>
+
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marcelo721&theme=dracula"/>
+
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marcelo721&theme=dracula"/>
+
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marcelo721&theme=dracula&utcOffset=-3"/>
+
 </div>
+```
 
 ---
 
