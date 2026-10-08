@@ -9,11 +9,11 @@
 
 ### 🧠 About Me
 
-- 🎓 I’m currently studying **Computer Engineering**
-- 💻 I love web development, backend systems, and artificial intelligence
-- 🚀 Always looking for new challenges and cool projects
-- 📚 Currently learning **Spring Boot**, **React with TypeScript**, and **AI with pure Python**
-
+* 🎓 I’m currently studying **Computer Engineering**
+* 💻 I love **backend development, artificial intelligence, and embedded systems**
+* 🔧 Currently studying **Embedded Systems**, with a focus on **microcontroller firmware**
+* 🚀 Always looking for new challenges and cool projects
+* 📚 Currently learning **Spring Boot**, **React with TypeScript**, **AI with Python**, and **Embedded Systems with C++**
 
 ---
 
@@ -27,16 +27,27 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35" alt="Spring"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="35" alt="Anaconda"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="35" alt="Jupyter"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="35" alt="Arduino"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="35" alt="Debian"/>
 </div>
 
----
+### 🔧 Embedded Systems & Firmware
 
+* ⚙️ **Microcontroller Firmware Development**
+* 🧩 **ESP32**
+* 🔌 **Arduino**
+* 💻 **C/C++**
+* 📡 **I2C, SPI, UART and I2S**
+* 🔄 **FreeRTOS**
+* 📶 **Wi-Fi and MQTT**
+* 🎛️ **Sensors, actuators and peripheral integration**
+
+---
 
 ### 📊 GitHub Stats
 
@@ -50,14 +61,9 @@
 
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marcelo721&theme=dracula"/>
 
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marcelo721&theme=dracula&utcOffset=-3"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marcelo721&theme=dracula&theme=dracula&utcOffset=-3"/>
 
 </div>
-```
-
----
-
-
 
 ---
 
@@ -72,6 +78,7 @@
 </p>
 
 ---
+
 <table>
   <tr>
     <td>
@@ -79,9 +86,9 @@
     </td>
     <td>
       <p><em>“That's what you get when you let your heart win.”</em></p>
-      <p><strong>“Future pixel in factories far away...”</p>
+      <p><strong>“Future pixel in factories far away...”</strong></p>
       <p><em>“Times like these, you learn to live again.”</em></p>
-      <p><strong>“Do you feel the same, or am I only dreaming?”</p>
+      <p><strong>“Do you feel the same, or am I only dreaming?”</strong></p>
       <p><em>“I'm a million different people from one day to the next.”</em></p>
     </td>
   </tr>
